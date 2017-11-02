@@ -7,5 +7,6 @@ API para buscar y descargar ROMs desde Loveroms.
 
 ## Lanzar servidor
 
-Para lanzar el servidor en modo produccion con `npm start` y en modo desarrollo con `npm run dev`
+Para lanzar el servidor en modo produccion usar el comando `npm start`
 
+Para arrancar en modo desarrollo con nodemon usar `npm run dev`
